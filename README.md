@@ -2,7 +2,7 @@
 
 > Projet de cartographie des mouvements de mobilisation pour l'Ukraine.
 
-La carte est visible à cette adresse : <https://j-rostand.github.io/mouvements-pour-ukraine/>
+La carte est visible à cette adresse : <https://umap.openstreetmap.fr/fr/map/mobilisation-pour-lukraine_727457>
 
 Pour alimenter la carte, veuillez renseigner le formulaire anonyme suivant : <https://framaforms.org/mouvements-pour-lukraine-1646596756>.
 
