@@ -1,11 +1,10 @@
 # Cartographie des mouvements sociaux
 
-Projet de cartographie des mouvements sociaux en France
+> Projet de cartographie des mouvements de mobilisation pour l'Ukraine.
 
-La carte est visible à cette adresse : https://geographesesr.github.io/cartographie-des-mouvements-sociaux/
+La carte est visible à cette adresse : <https://j-rostand.github.io/mouvements-pour-ukraine/>
 
-Pour alimenter la carte, veuillez renseigner le formulaire anonyme suivant : https://framaforms.org/inventaire-des-mouvements-sociaux-1578921708
-
+Pour alimenter la carte, veuillez renseigner le formulaire anonyme suivant : <https://framaforms.org/mouvements-pour-lukraine-1646596756>.
 
 ## Comment ça marche ?
 
